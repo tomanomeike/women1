@@ -3,7 +3,7 @@
 <div class="pagalbinis14">
     <div class="container">
         <div class="row">
-            <div class="col-md-2">
+            <div class="col-md-3">
                 <div class="programos-koordinatore">
                     <p>Programos koordinatorė</p>
                     <h5>Eglė Jakūnaitė</h5>
@@ -11,7 +11,7 @@
                     <p><img src="http://localhost/Women%20go%20tech/footer-icon2.jpg">elena.jakunaite@womengotech.com</p>
                 </div>    
             </div>
-            <div class="col-md-8">
+            <div class="col-md-7">
                 <div class="footer-menu-wrapper">
                     <ul>
                         <li><a href="#">Apie programą</a></li>
@@ -20,7 +20,6 @@
                         <li><a href="#">Alumni</a></li>
                         <li><a href="#">Komanda</a></li>
                         <li><a href="#">Tinklaraštis</a></li>
-                        <li><a href="#">Registruokis dabar</a></li>
                     </ul>
                 </div> 
             </div>
@@ -49,6 +48,6 @@
     </div>
 </div>
 
-<footer>
+</footer>
 </body>
 </html>

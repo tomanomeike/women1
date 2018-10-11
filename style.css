@@ -193,8 +193,7 @@ form {
   display: inline-block;
   font-size: 12px;
   padding-top: 80px;
-  padding-right: 5px;
-  padding-right: 0; }
+  padding-left: 5px; }
   .footer-menu-wrapper li a {
     color: #adacb2;
     text-decoration: none; }
